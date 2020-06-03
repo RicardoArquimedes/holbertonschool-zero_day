@@ -636,3 +636,446 @@ git push
 git push origin master --force
 git config --global --unset https.proxy
 git config --global --unset http.proxy
+ls
+cd holbertonschool-zero_day
+ls
+git init
+git status
+cd 0x01-emacs/
+ls
+cd ..
+git add .
+git commit -m "Emacs Comment"
+git checkout
+git checkout master
+git retome -v
+git remote
+git commit -m "Emacs Comment"
+cd ..
+git remote add origin https://github.com/RicardoArquimedes/holbertonschool-zero_day
+ls
+git remote -v
+cd ..
+git init
+cd ..
+git init
+ls
+cd ..
+ls
+cd 
+cd /vagrant
+ls
+cd /home/vagrant
+ls
+git init
+git status
+git add
+ls
+git status
+git add .
+ls
+cd ..
+ls
+cd .
+ls
+git remote -v
+ls
+cd
+ls
+git init
+ls
+git status
+git
+ls
+cd holbertonschool-zero_day
+git status
+ls
+git inti
+git init
+git status
+git branch --set-upstream-to origin/master
+git branch -u origin/master
+ls
+git status
+git commit
+ls
+cd .
+ls
+cd ..
+pwd
+git commit
+git status
+git add .
+git commit -m "Emacs Commands"
+git push
+ls
+git remote -v
+git init
+git status
+git add .
+git commit -m "Commands Emacs"
+git push
+ls
+git init
+git remote -v
+git add origin https://github.com/RicardoArquimedes/holbertonschool-zero_day
+ls
+git remote -v
+git statuis
+git status
+ls
+cd holbertonschool-zero_day
+ls
+git status
+ls
+cd 0x01-emacs
+ls
+cd
+ls
+cd holbertonschool-zero_day
+ls
+git add 0x01-emacs
+git commit -m "Comment Emacs"
+git status
+ls
+cd
+git init
+pwd
+ls
+git init
+cd holbertonschool-zero_day/
+git init
+git status
+git checkout
+git checkout branch master
+git branch master
+git add .
+git commit -m "Third Comment"
+git branch --set-upstream-to origin/master
+git branch -u origin/master
+git branch -u origin master
+git branch -u origin/master
+git branch
+git add .
+git commit -m "Comment Correct"
+git pull origin master
+git remote add origin https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+ls
+ls -a
+git status
+git add 0x01-emacs
+git status
+git remote -v
+ls
+cd 0x01-emacs/
+ls
+git status
+git commit -m "test"
+git push
+git reset
+git add .
+ls
+cd
+ks
+ls
+cd holbertonschool-zero_day
+pwd
+git status
+ls
+git reset
+git add
+vagrant halt
+exit
+cd
+ls
+cd holbertonschool-zero_day
+pwd
+git push origin master
+ls
+cd /holbertonschool-zero_day
+ls
+pwd
+ls
+mkdir 0x02-vi
+ls
+cd 0x02-vi
+touch 0-inserting
+vi 0-inserting
+ls
+touch 1-cutting
+vi 1-cutting
+less 1-cutting
+ls
+touch 2-pasting
+less 2-pasting
+touch 3-undoing
+ls
+less 3-undoing
+ls
+touch 4-exiting
+ls
+less 3-undoing
+ls
+less 4-exiting
+ls
+less 4-exiting
+touch 5-beginning_line
+less 5-beginning_line
+touch 6-end_line
+ls
+less 6-end_line
+ls
+cd
+pwd
+cd /holbertonschool-zero_day
+ls
+pwd
+cd vagrant
+ls
+pwd
+cd ..
+ls
+cd vagrant
+ls
+cd holbertonschool-zero_day
+pwd
+ls
+git init
+git status
+git commit -m "Vi Editting commands"
+git status
+git init
+git status
+git add .
+git commit -m "Vi Editting commands"
+git push
+la
+ls
+cd 0x02-vi
+ls
+less 0-inserting
+ls
+cd
+ls
+pwd
+cd /holbertonschool-zero_day
+ls
+cd holbertonschool-zero_day/
+pwd
+git init
+git status
+git add .
+git commit -m "Vi correction"
+git push
+ls
+cd 0x02-vi
+ls
+less 0-inserting
+cd
+ls
+pwd
+cd holbertonschool-zero_day
+ls
+git init
+git status
+git add .
+git commit -m "Corrections Insert"
+git push
+ls
+ls -la
+rm .0-inserting.swp
+ls
+pwd
+cd
+pwd
+ls
+cd holbertonschool-zero_day/
+git init
+git status
+git add .
+git commit -m "Correction on insert"
+git push
+ls
+cd 0X02-vi
+ls
+cd 0x02-vi
+ls
+ls -la
+ls
+rm 0-inserting
+ls
+touch 0-inserting
+ls
+less 0-inserting
+git init
+git status
+git add .
+git commit -m "Correction Field"
+git push
+ls
+d
+cd
+ls
+cd holbertonschool-zero_day/
+ls
+git init
+git status
+git add .
+git commit -m "Fourth Correction"
+git push
+git pull
+git push
+ls
+git init
+ls
+git status
+git add .
+git commit -m "second option"
+git push 
+exit
+vagrant halt
+exit
+vagrant halt
+ls
+vagrant halt
+vagrant exit
+ls
+cd
+exit
+ls
+cd holbertonschool-zero_day/
+ls
+cd 0x02-vi
+ls
+ls -la
+rm 0-inserting.save
+ls
+touch README.md
+ls
+less README.md
+cd
+pwd
+cd holbertonschool-zero_day/
+git init
+git status
+git add .
+git commit -m "Updating Readme"
+git push
+git pull
+git push origin gh-pages
+git remote -v
+ls
+git push -f origin master
+exit
+eixt
+exit
+ls
+cd holbertonschool-zero_day
+pwd
+ls
+mkdir 0x03-git
+ls
+cd 0x03-git
+ls
+touch README.md
+ls
+less README.md
+git init
+git status
+git add .
+git commit -m "Git Comment"
+git push
+git init
+git remote -v
+git remote add https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+git remote -v
+git remote add https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+git remote -v
+ls
+git push
+git pull
+git pull https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+git add https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+git remote -v
+git add remote https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+ls
+cd
+pwd
+cd holbertonschool-zero_day
+ls
+pwd
+git
+git add
+git checkout
+git pull
+git remote add https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+git resete
+git reset
+git remote
+git remote -v
+git init
+git status
+git add .
+git commit -m "Git Commentary"
+git push
+ls
+cd 0x03-git
+ls
+cd 0x03-git
+ls
+pwd
+cd
+ls
+cd holbertonschool-zero_day
+ls
+cd 0x03-git
+ls
+pwd
+ls
+cd
+ls
+cd holbertonschool-zero_day
+ls
+rm -rf 0x03-git
+ls
+mkdir 0x03-git
+ls
+cd 0x03-git
+ls
+touch README.md
+ls
+less README.md
+ls
+cd
+ls
+cd holbertonschool-zero_day
+ls
+cd 0x03-git
+ls
+git init
+git status
+git commit -m "Getting Comment add"
+git init
+git status
+git add .
+git commit -m "Comments about git"
+git push
+git remote add https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+git push
+git remote add
+git remote add 
+git init
+git remote -v
+git init
+git reset
+git init
+git remote -v
+git pull
+git pull https://github.com/RicardoArquimedes/holbertonschool-zero_day.git
+git remote -v
+ls
+git init
+git remote
+git remote add Automatic merge failed; fix conflicts and then commit the result.exit
+eixit
+exit
