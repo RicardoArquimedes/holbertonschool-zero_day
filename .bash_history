@@ -1,223 +1,3 @@
-git checkout
-git branch
-git pull
-git remote
-git remote -v
-git
-pwd
-git init
-git status
-ls
-git reset
-ls
-exit
-ls
-cd holbertonschool-zero_day
-git remote
-git init
-git add -u
-git status
-git add -u
-git commit -m "cmmnt"
-git push
-ls
-ls -la
-cd .git
-ls
-rt
-ls
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git
-ls
-ls -la
-ls
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-s
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-cd
-git init
-ls
-pwd
-cd holbertonschool-zero_day
-ls
-git init
-git status
-ls
-rm -rf 0x03-git
-ls
-git status
-git add .
-git commit -m "Fixing comments"
-git push
-git push origin master
-git status
-git add -u
-git commit "fixing comment"
-git commit  -m "fixing comment"
-git push origin master
-ls
-cd
-pwd
-cd vagrant
-ls
-cd holbertonschool-zero_day
-ls
-git init
-pwd
-ls
-mkdir 0x03-git
-ls
-cd 0x03-git
-ls
-touch README.md
-ls
-less README.md
-ls
-cd
-pwd
-cd vagrant
-ls
-pwd
-cd holbertonschool-zero_day/
-pwd
-git init
-git status
-git add .
-git commit -m "adding comments on directors"
-git push 
-ls
-cd 0x03-git
-ls
-mkdir bash
-ls
-mkdir js
-ls
-mkdir c
-ls
-cd bash
-touch holberton
-touch school
-ls
-less holberton
-less school
-ls
-cd
-ls
-cd holbertonschool-zero_day
-ls
-pwd
-git init
-git status
-git add .
-git commit -m "Starting to code today, so cool"
-git push 
-ls
-cd 0x03-git
-ls
-cd bash
-ls
-less README.MD
-less README.md
-ls
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git
-ls
-cd c
-ls
-touch c_is_fun.c
-ls
-less README.md
-ls
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git
-ls
-cd js
-l
-ls
-pwd
-ls
-touch main.js
-ls
-README.md
-touch README.md
-ls
-touch index.js
-ls
-less README.m
-less README.md
-ls
-cd
-pwd
-ls
-cd holbertonschool-zero_day/
-pwd
-ls
-pwd
-git init
-git status
-git add .
-git commit -m "Starting to code today, so cool"
-git push
-ls
-pwd
-git branch update_script 
-git branch
-git checkout update_script
-ls
-pwd
-ls
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git
-ls
-cd bash
-ls
-cd holberton
-ls
-less holberton
-ls
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-pwd
-git init
-git status
-ls
-cd 0x03-git
-ls
-rm -rf js
-ls
-c
-cd
-ls
-cd holbertonschool-zero_day/
-ls
-cd 0x03-git
-ls
-cd
-ls
-pwd
-ls
-cd holbertonschool-zero_day/
-ls
 pwd
 git init
 git status
@@ -1998,3 +1778,223 @@ exit
 vagrant halt
 ls
 exit
+vagrals
+ls
+cd holberton-system_engineering-devops/
+ls
+cd 0x01-shell_permissions/
+ls
+emacs 15-symbolic_link_permissions
+man chown
+ls
+emacs 10-mirror_permissions 
+LS
+ls
+cd
+ls
+cd holbertonschool-zero_day/
+ls
+git init
+git add
+git add .
+git commit -m "fixed merge"
+git push origin master
+ls
+cd 0x03-git
+git checkout master
+git pull
+git checkout update_script
+git merge master update_script
+git push origin update_script
+ls
+git status
+git checkout
+ls
+git remote -v
+ls
+git branch update_script
+ls
+git checkout update_script
+ls
+pwd
+ls
+git remote -v
+ls
+git branch update_script
+ls
+git checkout update_script
+ls
+cd 
+ls
+git remote -v
+ls
+git init
+git remote -v
+git checkout update_script
+git status
+git commit add .
+git commit add .bash_history
+git add -a
+git add . *
+git add .*
+git add 
+git add .a
+git add .
+git add -all
+git add "-all"
+git add all
+git add -A
+git commit -m "changes master"
+git push
+git pull
+git add README.md
+git commit -A "merge"
+git commit -m "merge"
+git push
+ls
+git status
+git add .
+git commit -m "add"
+git pull
+git remote -v
+ls
+git status
+git commit -a
+git push
+exit
+logout
+la
+ls
+cd holbertonschool-zero_day/
+l
+cd 0x02-vi/
+ls
+less 101-delete_line 
+ls
+vagrant box add ubuntu/trusty64
+ls
+exit
+ls
+cd holbertonschool-zero_day/
+ls
+cd 0x03-git/
+ls
+touch README.md
+ls
+emacs README.md
+ls
+git status
+git add README.md
+git commit -m "Read"
+git push
+git checkout
+ls
+git remote -v
+git branch origin master
+git remote -v
+ls
+git status
+git push origin master
+ls
+git checkout
+ls
+git checkout origin
+ls
+git}
+ls
+pwd
+ls
+touch README.md
+ls
+rm README.md~
+ls
+emacs README.md
+pwd
+git status
+git add README.md
+git commit -m "readme"
+git push
+git push origin master
+pwd
+ls
+pw
+pwd
+ls
+cd ..
+ls
+cd 0x03-git/
+ls
+git pull
+git status
+git pull origin master
+git push origin masger
+git pull origin master
+git push origin master
+ls
+git status
+ls
+rm README.md~
+ls
+git status
+touch README.md
+emacs README.md
+git status
+git commit -m "changes"
+git pull
+git pull origin master
+git push -u origin master
+git push
+git push --set-upstream origin master
+git log
+ls
+git reset --hard 5f310928752fdc744a1f7721b65b658d95ecb7d5
+git status
+git push origin master
+ls
+cd ..
+ls
+cd 0x03-git
+ls
+LS
+ls
+rm README.md
+ls
+rm README.MD
+LS
+ls
+touch README.md
+ls
+emacs README.md
+git status
+git add README.md
+git commit -m "update"
+git push origin master
+ls
+git remote -v
+git status
+git pull origin master
+git push origin master
+git pull
+git branch --set--upstream origin
+ls
+git
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+cd holberton-system_engineering-devops/
+ls
+mkdir 0x02-shell_redirections
+ls
+cd 0x02-shell_redirections/
+ls
+touch README.md
+ls
+emacs README.md
+LS
+ls
+
+emacs 0-hello_world 
+ls
